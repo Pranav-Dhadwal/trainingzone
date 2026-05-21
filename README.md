@@ -18,4 +18,9 @@ Topic
 Major Milestone every 3 checkpoints
 └── Big revision + portfolio project
 
+
+<!-- Dataset: Titanic — download from Kaggle -->
+
+Link: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
 <!-- Thanks ! -->
